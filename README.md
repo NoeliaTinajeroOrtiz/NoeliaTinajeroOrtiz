@@ -19,8 +19,8 @@ Me apasiona ser una autodidacta, constantemente sumergiéndome en contenido que 
 - Javascript
 
 ### Encuéntrame en:
-- [Instagram]([https://www.instagram.com/](https://www.instagram.com/noeliatinajero/))
-- [TikTok]([https://www.tiktok.com/](https://www.tiktok.com/@noelia.tinajero))
+- [Instagram](https://www.instagram.com/noeliatinajero/)
+- [TikTok](https://www.tiktok.com/@noelia.tinajero)
 
 ### Contacto y Soporte:
 - [Email](mailto:noeliatinajero1996@gmail.com)
