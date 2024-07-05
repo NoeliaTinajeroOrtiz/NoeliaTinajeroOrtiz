@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola mundo! Soy Noelia Tinajero Ortiz ⚔️
 
-<!--
-**NoeliaTinajeroOrtiz/NoeliaTinajeroOrtiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desarrolladora Web
+Acabo de terminar el grado de Desarrollo de aplicaciones web, mi aventura por este mundo tan solo acaba de empezar ⛏️.
 
-Here are some ideas to get you started:
+Hasta el momento mi carrera no ha estado vinculada a la programación, he trabajado como monitora de niños y como dependienta en varios establecimientos, pero desde que me saqué el grado medio de informática y empecé a tocar el mundo de la programación, supe que sería un ámbito laboral al que querría dedicarme en un futuro y aquí estoy, con ganas de aprender y seguir avanzando en el.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me apasiona ser una autodidacta, constantemente sumergiéndome en contenido que enriquece mi perfil profesional. También me considero una persona con muy buenas dotes para trabajar en equipo y resolver problemas. Soy una persona muy organizada
+
+### Tecnologías:
+- Java
+- PHP
+- Spring Boot
+- HTML
+- CSS
+- MySQL
+- React
+- Angular
+- Javascript
+
+### Encuéntrame en:
+- [Instagram]([https://www.instagram.com/](https://www.instagram.com/noeliatinajero/))
+- [TikTok]([https://www.tiktok.com/](https://www.tiktok.com/@noelia.tinajero))
+
+### Contacto y Soporte:
+- [Email](mailto:noeliatinajero1996@gmail.com)
+
+Hecho con 💜 en Sevilla
+
